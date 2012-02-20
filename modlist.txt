@@ -1,0 +1,8 @@
+# baf module list
+#
+# Each line stands for one module.
+#
+# Structure:
+#   module-name, module-file-name, module-url, module-description
+
+asterisk-bin, asterisk-bin.tar.gz, http://developer.beronet.com/baf-modules/asterisk-bin.tar.gz, "Module containing Asterisk binaries and asterisk modules"
